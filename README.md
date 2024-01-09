@@ -10,4 +10,4 @@ Screenshot of application: ![ui of app](https://github.com/Canes2023/Employee-Tr
 
 
 
-Video of application: 
+Video of application: https://drive.google.com/file/d/1TXFqOcuG3e1PvvihG10LmhNqjVa969D2/view
